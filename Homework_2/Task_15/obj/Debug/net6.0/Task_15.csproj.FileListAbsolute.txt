@@ -1,0 +1,15 @@
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\bin\Debug\net6.0\Task_15.exe
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\bin\Debug\net6.0\Task_15.deps.json
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\bin\Debug\net6.0\Task_15.runtimeconfig.json
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\bin\Debug\net6.0\Task_15.dll
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\bin\Debug\net6.0\Task_15.pdb
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\obj\Debug\net6.0\Task_15.csproj.AssemblyReference.cache
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\obj\Debug\net6.0\Task_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\obj\Debug\net6.0\Task_15.AssemblyInfoInputs.cache
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\obj\Debug\net6.0\Task_15.AssemblyInfo.cs
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\obj\Debug\net6.0\Task_15.csproj.CoreCompileInputs.cache
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\obj\Debug\net6.0\Task_15.dll
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\obj\Debug\net6.0\refint\Task_15.dll
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\obj\Debug\net6.0\Task_15.pdb
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\obj\Debug\net6.0\Task_15.genruntimeconfig.cache
+D:\Домашка Олеся\Homework_C#\Homework_2\Task_15\obj\Debug\net6.0\ref\Task_15.dll
